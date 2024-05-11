@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/(main)/space/dance-workshop/+page.svelte";

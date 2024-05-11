@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/(main)/wind/changing-your-mood/+page.svelte";

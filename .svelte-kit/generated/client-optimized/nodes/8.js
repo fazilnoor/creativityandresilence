@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/(main)/earth/fresh-mind-cooking/black-bean-soup/+page.svelte";

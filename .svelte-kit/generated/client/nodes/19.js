@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/(main)/earth/the-inner-critic/+page.svelte";

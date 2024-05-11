@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/(main)/water/water-meditation/+page.svelte";

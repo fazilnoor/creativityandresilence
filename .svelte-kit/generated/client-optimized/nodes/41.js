@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/(main)/space/voice-of-space/+page.svelte";

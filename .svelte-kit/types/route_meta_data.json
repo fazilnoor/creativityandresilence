@@ -1,0 +1,234 @@
+{
+	"/(main)": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/": [
+		"src/routes/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/about": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/earth": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/earth/art-workshop": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/earth/fresh-mind-cooking": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/earth/fresh-mind-cooking/black-bean-soup": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/earth/fresh-mind-cooking/cooking-with-herbs": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/earth/fresh-mind-cooking/galettes": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/earth/fresh-mind-cooking/meal-salad": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/earth/fresh-mind-cooking/vegetable-soup": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/earth/grounding-meditation": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/earth/kindness-to-self": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/earth/path-to-the-heart": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/earth/quieting-inner-critic": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/earth/self-hypnosis": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/earth/sharing-earth": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/earth/the-inner-critic": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/earth/voice-of-earth": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/faqs": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/fire": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/fire/dissolving-anger": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/fire/fire-meditation": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/fire/podcast-creativity": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/fire/sharing-fire": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/fire/stop-obsessive-thinking": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/fire/voice-of-fire": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/journals": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/legal-disclaimers": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/meet-the-guardians": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/privacy-policy": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/space": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/space/dance-workshop": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/space/letting-go": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/space/making-more-mental-space": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/space/present-moment-meditation": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/space/sharing-space": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/space/sky-eating": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/space/space-meditation": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/space/voice-of-space": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/water": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/water/art-of-listening": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/water/finding-flexibility": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/water/podcast-flow": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/water/podcast-resilience": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/water/sharing-water": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/water/voice-of-water": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/water/water-meditation": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/wind": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/wind/changing-your-mood": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/wind/creating-new-pathways": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/wind/generosity-and-the-brain": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/wind/inaction-to-action": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/wind/music-chamber": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/wind/podcast-freedom": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/wind/poetry-workshop": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/wind/sharing-wind": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	],
+	"/(main)/wind/voice-of-wind": [
+		"src/routes/(main)/+layout.js",
+		"src/routes/+layout.js"
+	]
+}

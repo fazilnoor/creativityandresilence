@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/(main)/fire/stop-obsessive-thinking/+page.svelte";

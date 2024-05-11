@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/(main)/earth/sharing-earth/+page.svelte";

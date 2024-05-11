@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/(main)/space/making-more-mental-space/+page.svelte";
